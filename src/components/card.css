@@ -1,0 +1,49 @@
+.cardimg{
+    margin-top: 95px;
+    margin-left: 150px;
+}
+.card1{
+    display: flex;
+    
+}
+.cardtext{
+    padding-top: 120px;
+    margin-left: 50px;
+   
+}
+.topimg{
+    display: flex;
+    
+}
+.topimg img{
+    height: 25px;
+    
+}
+.topimg span{
+    margin: 0px 15px;
+    font-size: large;
+}
+.topimg a{
+    font-size: 30px;
+    margin-bottom: 3px;
+    color: gray;
+    margin-top: -10px;
+}
+.cardheading{
+    padding-top: 20px;
+    font-size: x-large;
+    color: rgb(53, 53, 53);
+}
+.carddate{
+    padding-top: 25px;
+    font-size: 35px;
+    color: rgb(53, 53, 53);
+}
+.carddiscription{
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight:470;
+    color: rgb(53, 53, 53);
+    padding-right: 150px;
+}
+

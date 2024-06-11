@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    background-color: #e96b6d;
+    display: flex;
+    height: 90px;
+    width: 100%;
+    justify-content: center;
+    
+}
+.navbar img{
+    border-radius: 50%;
+    /* opacity: 0.97; */
+    background-color: #fcfbfb;
+    height: 55px;
+    margin-top: 15px;
+
+
+    /* background size: 100%; */
+}
+.navbar h5{
+    padding-top: 28px;
+    padding-left: 8px;
+    color: white;
+    font-size: large;
+}
